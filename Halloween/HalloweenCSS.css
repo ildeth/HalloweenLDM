@@ -1,0 +1,62 @@
+
+ <style>
+ body{background-color: black;
+     
+ }
+ #wrapper{background-image: url("jawelin.jpg");
+ background-repeat: no-repeat;
+ height: 900px;
+ margin: auto;}
+
+ h1{position: absolute;
+ top:20px;
+ left:20px;
+ font-size: 3.5em;
+ font-family: 'Creepster', cursive;
+ color: orange;
+ text-shadow: black 3px 3px,
+ black -1px -1px,
+ black -1px 1px,
+ black 1px 1px;}
+
+ #p3{position: absolute;
+font-size:1.2em ;
+font-family: 'Mansalva', cursive;
+left:700px;
+top:200px;
+color: black;
+border:3px double ;
+border-color: orange;
+text-shadow: 2px 2px 4px white;
+ }
+ #wrapper{
+    background-color: rgba(145, 82,37,0.8);
+    border:2px solid black ;
+ }
+ #p1{position:relative;
+ top: 40px;
+ left: 700px;
+ font-size:2.5em;
+ font-family: 'Creepster', cursive;
+ }
+ #ventana{position: absolute;
+ top: 250px;
+ left: 100px;
+ width:550px;
+ height: 450px;
+ /*border:2px solid white;*/
+ }
+ #gif{position:absolute;
+ top: 400px;
+ left:180px;
+ visibility: hidden;
+ cursor: pointer;
+ }
+ #p2{position: absolute;
+ font-family: 'Creepster', cursive;
+ font-size:1.5em;
+ top:800px;
+ left:250px;
+ color: chocolate;
+ }
+</style>
